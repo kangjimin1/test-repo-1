@@ -1,3 +1,3 @@
-print("hello world!")
+print("Hello World!")
 
-# 박세현 202201396 https://github.com/hellosehyun/test-repo
+print('박세현 202201396 https://github.com/hellosehyun/test-repo')
